@@ -1,0 +1,5 @@
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# If you also use a local .env
+.env
