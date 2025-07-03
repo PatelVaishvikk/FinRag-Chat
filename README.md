@@ -4,7 +4,7 @@
 
 # FinTech Insight Architect
 
-**Author:** Peter Pandey
+**Author:** Vaishvik Patel
 **Tech Stack:** Python, FastAPI, Streamlit, ChromaDB, OpenAI API (GPT-4o)
 
 ---
@@ -167,4 +167,4 @@ Feel free to submit issues or pull requests. For major changes, open an issue fi
 
 ---
 
-© 2025 Peter Pandey
+© 2025 Vaishvik Patel
